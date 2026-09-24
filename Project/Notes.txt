@@ -1,0 +1,20 @@
+1.Mask R-CNN is an extension of Fast-RCNN which is an object detection algorithm.
+2.With two objects in an image, it first detects the two objects in the image. Image
+segmentation is done next which involves segregating of the pixels.
+Eg a yellow image belongs to one class and the other image belong to the next class termed masks.
+
+
+
+Todos
+
+*How much farmers make and invest in terms of what percentage they can afford.
+
+
+
+
+- Traditional methods include hooting at birds by humans which is labor intensive and time consuming.
+-Using scarecrows have proven ineffective due to the evolution of scarecrows hence some birds even stand on scarecrows.
+- Others which involve using drones and lasers have proven to be too costly and expensive for small-scale farmers.
+
+
+* slide 8 has an issue.
